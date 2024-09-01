@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, feel free to reach out to [Vaibhav Kashyap] at [vaibhavkashyap1012@gmail.com].
+For any questions or issues, feel free to reach out to Vaibhav Kashyap at vaibhavkashyap1012@gmail.com.
 
 ---
 
